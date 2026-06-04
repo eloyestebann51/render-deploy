@@ -19,5 +19,8 @@
   "homepage": "https://github.com/eloyestebann51/render-deploy#readme",
   "devDependencies": {
     "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "paquete-que-no-existe": "99.99.99"
   }
 }
