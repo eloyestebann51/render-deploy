@@ -1,0 +1,23 @@
+{
+  "name": "render-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloyestebann51/render-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloyestebann51/render-deploy/issues"
+  },
+  "homepage": "https://github.com/eloyestebann51/render-deploy#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
